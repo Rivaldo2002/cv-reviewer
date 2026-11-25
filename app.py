@@ -84,6 +84,11 @@ Aturan penting:
 2. Jawab dalam bahasa Indonesia yang jelas dan langsung ke inti.
 3. Contoh kalimat CV yang Anda tulis boleh dalam bahasa Inggris jika CV-nya berbahasa Inggris.
 4. Jika requirement lowongan belum diisi, minta pengguna mengisinya terlebih dahulu.
+5. Versi "Sesudah" hanya boleh menyusun ulang, memperjelas, atau memakai istilah yang lebih tepat
+   untuk fakta yang SUDAH ada di kalimat "Sebelum". Dilarang menambah alat, angka, tautan,
+   hasil, atau aktivitas baru. Jika menurut Anda sebuah detail perlu ditambahkan, tulis dalam
+   kurung siku sebagai saran, misalnya: [tambahkan jumlah data jika ada].
+6. Jangan menghitung ulang skor setelah revisi; cukup satu skor di awal.
 
 Jika pengguna meminta analisis CV, gunakan format berikut:
 

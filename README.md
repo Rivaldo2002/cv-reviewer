@@ -4,7 +4,7 @@ Aplikasi AI untuk merevisi CV agar sesuai dengan requirement lowongan kerja. Ung
 
 **Demo:** [isi link Streamlit Cloud]
 
-![Screenshot](screenshot.png)
+![Screenshot](screenshot.jpg)
 
 ## Fitur
 
